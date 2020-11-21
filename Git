@@ -1,0 +1,16 @@
+# GIT
+
+## COMMON COMMANDS
+•	Cd test (cd = change directory) – import an existing project into git
+•	git init - import an existing project into git
+•	git add filename – to track one file only 
+•	git add * - track all files in the repository
+•	git clone https://github.com/test - clone repository into the directory  
+•	git clone https://github.com/test mydirectory - clone repository into directory with another name
+•	git status – determine the state of files
+•	git commit -m “made change x,y,z” – saves the untracked files, record a message for the multiple files
+•	git commit – a – commits a snapshot of all modifications to be tracked in the working directory
+•	git push origin master – move changes from local “master” branch to the remote repository
+•	git stash – temporarily removes changes and hides them, giving a clean working directory
+•	git stash apply – to retrieve the hidden changes
+
