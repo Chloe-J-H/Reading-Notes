@@ -1,0 +1,21 @@
+Lab 6a
+
+JavaScript is an asynchronous, dynamically-typed, interpreted scripting language, designed to make web pages dynamic and interactive. 
+What is a Variable?
+Store values of a computer program
+
+var quantity;
+quantity = 3;
+•	Var is an example of keyword.
+•	In order to use a variable it must be given an identifier or quantity.
+•	If a variable has more than one name it should be written in camelCase
+•	A variable’s name should describe the data
+•	The equal sign (=) is an assignment operator
+•	If the variable is not assigned a value, then it is undefined.
+
+Data Types
+Javascipt distinguished between numbers, strings, and Booleans.
+
+1.	Numeric Data Type: uses numerals as values
+2.	String Data Type: values are denoted by letters and characters. It is enclosed within quotes (single or double may be used)
+3.	Boolean Data Type: May have one of two values, true or false

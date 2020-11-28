@@ -1,0 +1,72 @@
+SCRIPT (Pages 1-24)
+
+A series of instructions that a computer follows to achieve a goal
+
+Writing a script constitutes the following:
+1. Defining the goal (Clearly and concisely define on what you intend to achieve)
+2. Designing the script (Create steps or series of tasks on how you would achieve the goal)
+3. Then code each step (Each step should be written in a programming language that teh computer understands)
+
+EXPRESSIONS (Pages 74)
+
+An expression is a syntatic entity in a programming lanuage that may be evlauted to determine its value (https://en.wikipedia.org/wiki/Expression_(computer_science)#cite_note-1)
+
+Two types of expression:
+
+1. Assigns a value to a variable
+
+An example:
+
+var color = 'beige';
+
+2. Assigns two or more values to return a variable
+
+An example:
+
+var area = 3 * 2;
+the area is now 6
+
+OPERATORS (Pages 75-79)
+
+ According to https://www.bbc.co.uk/bitesize/guides/z788jty/revision/5, an operator is a character or characters that determine the action that is to be performed or considered.
+
+Types of Operators:
+
+1. Assignment Operators : Assigns a value to a variable
+2.Arithmetic Operators: Perfoms basic mathematical equations
+3. String Operators: combines two strings (text)
+4. Comparison Operators: Compares two values and retruns a boolean (true/false)
+5.Logical Operators: Combine expressions and return a boolean
+
+FUNCTION (Pages 88-94)
+
+Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of statements).(Page 88, JavaScript & Query)
+
+Main Points
+
+- If you are going to ask the function to perform its task later, it should be given a name
+- When you ask the program to perform the task it is known as *calling* the function
+- The steps that the function is to perform is called a code block
+- Code block is one or more statments contained within curly braces (a semicolon is not required at the end of the statement)
+-  Function needs information to perform a task, this is known as parameters
+- The output or result of the function is called a return value
+- 
+
+Summary: To create a function, you give the task a name, write the statements 
+          needed to achieve the task inside the curly braces.
+          This is known as a function declaration
+
+
+Example:
+
+function sayHello() {
+    document.write('Hello');
+}
+
+- function - function declaration
+- sayHello() - name (or also known as identifier)
+{document.write('Hello!')} - statement that performs the task or code block
+- to call the function you then write the function name:
+sayHello();
