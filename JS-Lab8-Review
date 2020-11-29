@@ -1,0 +1,29 @@
+Pages 150-151, 156-157, 170-173 & 176
+
+LOOPS (Pages 170-173)
+
+Check the condition.
+If the rteurn is true then the code block will run.
+It will continue to run until the condition is false
+
+Three common types of loops:
+
+1. For :
+    Uses a counter as a condition 
+    runs for a specific number of times
+2. While - may run for an infinite number of times as long as the condition is true
+3.Do While - runs the condition in the curly brace once even if the condition is false
+
+An example:
+
+for (var 1=0; 1<10; i++){
+    document.write(i);
+}
+
+LAB 7
+
+var parish = [
+    {Parish: }
+]
+
+}

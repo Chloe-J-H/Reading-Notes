@@ -1,15 +1,33 @@
 What is computer?
-A computer a electronic device that manipulates information.
+A computer a electronic device that allows the manipulation of information.
 
-How do Computers Work?
+In order to manipulate information, the device (computer) should have four components:
+1. Input (the information to be manipulated)
+2. Storage (store the information in memory as data)
+3. Processing (takes the data from memory, manipulates it via algorithm, then returns to the memory) 
+4. Output (the results - eg games)
 
+How do Computers Work? Binary & Data
 
-1. What is characterized as a computer?
+Computers consists of electrical wires and circuit.
+How do you store or represent information using electricity
+Single wire may be in either a on/off state called a bit
+Bit is the smallest piece of information that a computer can store
+Information is represented as the binary number system
+Binary system is represented in only two digits - 0 and 1
 
-2. How is this informaton represented?
+Images - made up of pixels and may be represented by numbers 
+Sounds - represented graphically as a waveform. Any point on the waveform may be represented as a number.
+         An increase in the bit number is an increase in sound quality
 
-There are four components of a computers:
-1. Input
-2.Storage
-3. Processing
-4. Output
+How do computers work? Circuits & Logic
+Circuits modify and process information that's represented by binary system.
+This means if the information 0 is input then the circuit changes it to 1 and vise versa 
+
+How do computers work? Memory, CPU, Input & Output
+Input Devices - convert information and converts it into binary information
+Eg sensor on a car or keyboard
+The keyboard converts the information to a number.
+The CPU then calcuates how to represent the information and stores in pixels
+The pixel is then sent in binary numbersignals to the screen, output device
+
