@@ -1,0 +1,39 @@
+Comparison of Operators:
+
+== is equal to 
+!= is not equal to
+=== strict equal to
+!== strict not equal to
+> greater than
+< less than
+>= greater than ot equal to 
+=< leass than or equal to
+
+Logical Operators
+
+&& Logical and
+|| Logical or
+! Logical Not
+
+Example:
+
+((10<2) && (2>= 3))
+
+Answer: False (once one of the two expressions is false)
+
+Loops
+
+Types of Loops:
+
+1. For: runs the code for a specific number of times
+2. While: loops for as long as the loop is true
+3. Do While - will run statements at least one even if condition is false
+
+for (var i = 0; 1 < 10; 1++)
+document.write(i);
+
+var i = 0; acts a the counter
+i < 10; condition, loops until condition is met. 
+i++ (1 is added to counter in increments)
+
+
